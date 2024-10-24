@@ -1,0 +1,20 @@
+/* =========== 991px =========== */
+@media (max-width: 991px) {
+    /* Navbar part start */
+    .manu {
+        display: none !important;
+    }
+    .menuOpen {
+        display: block;
+    }
+    .layer {
+        display: block !important;
+    }
+    .menu_search {
+        display: none;
+    }
+    .show-search {
+        display: block !important;
+        margin: 0 10px;
+    }
+}
